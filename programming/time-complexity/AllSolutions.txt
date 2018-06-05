@@ -1,0 +1,36 @@
+// https://www.interviewbit.com/courses/programming/topics/time-complexity/
+
+
+Basic Primer:
+
+LOOP_CMPL : O(N + M) time, O(1) space
+NESTED_CMPL : O(N * N) time, O(1) space
+NESTED_CMPL2 : O(N*N)
+CHOOSE4 : X will always be a better choice for large inputs
+
+
+Math:
+
+WHILE_CMPL : O(log N)
+NESTED_CMPL3 : O(N)
+LOOP_CMPL2 : Θ(nLogn)
+GCD_CMPL : Θ(logn)
+
+
+Compare functions:
+
+CHOOSE1 : n^3 / (sqrt(n))
+CHOOSE3 : C
+CHOOSE2 : f3, f2, f4, f1
+
+
+Function calling itself:
+
+REC_CMPL1 : O(N)
+REC_CMPL2 : O(2^(R + C))
+REC_CMPL3 : O(R*C)
+
+
+Amortized complexity:
+
+AMORTIZED1 : O(n)

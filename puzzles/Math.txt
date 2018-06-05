@@ -1,0 +1,25 @@
+// https://www.interviewbit.com/courses/programming/topics/puzzles/
+
+One Mile on the Globe : Infinity
+
+Dinner Hand Shakes : N - 1
+
+Make a Statement : 1
+
+Measure Time by Burning Ropes : All
+
+Fastest Horses : 7
+
+Ten Black and White Socks : 3
+
+Color of the last ball : Blue
+
+Color of the last ball II : Red
+
+Cross the Bridge II : 7
+
+Next Number II : 31
+
+Fake Note : 1000
+
+Spider's Web : 13
