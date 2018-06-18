@@ -8,6 +8,8 @@ Make a Statement : 1
 
 Measure Time by Burning Ropes : All
 
+World Trips : 1
+
 Fastest Horses : 7
 
 Ten Black and White Socks : 3
