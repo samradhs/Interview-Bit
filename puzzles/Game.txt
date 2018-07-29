@@ -1,3 +1,5 @@
 // https://www.interviewbit.com/courses/programming/topics/puzzles/
 
+Quarters on a Table : Player 1
+
 Light Switches in the Cellar : 1

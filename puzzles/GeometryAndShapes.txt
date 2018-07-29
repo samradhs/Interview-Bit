@@ -2,6 +2,8 @@
 
 Divide the Cake : Always possible
 
+Ants on a Triangle : 0.25
+
 Find the Defective Ball : 3
 
 Find the Defective Ball II : 2
