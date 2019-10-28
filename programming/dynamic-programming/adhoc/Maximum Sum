@@ -1,0 +1,23 @@
+public class Solution {
+    public int solve(int[] a, int B, int C, int D) {
+       int n=a.length;
+       if(n==1)return a[0]; 
+        int l[]=new int[n];
+           int r[]=new int[n];
+           l[0]=a[0]*B;
+           for(int i=1;i<n;i++){
+               if(a[i]*B>=l[i-1])l[i]=a[i]*B;
+               else l[i]=l[i-1];
+           }
+           r[n-1]=D*a[n-1];
+           for(int j=n-2;j>=0;j--){
+                if(a[j]*D>=r[j+1])r[j]=a[j]*D;
+                else r[j]=r[j+1];
+           }
+           int max=0;
+           for(int i=0;i<n;i++){
+               max=Math.max(l[i]+(a[i]*C)+r[i],max);
+           }
+           return max;
+    }
+}
